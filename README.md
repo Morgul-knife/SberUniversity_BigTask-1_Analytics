@@ -1,2 +1,2 @@
 # SberUniversity_BigTask-1_Analytics
-Data Analysis. 
+Data Analysis. Salaries of IT specialists.
